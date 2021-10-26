@@ -3,7 +3,9 @@
 <h4 align="left"> 
 	🚧  Projeto 🚀 em andamento...  🚧
 </h4>
-<h4>  [Meu portifólio](https://dev-alineribeiro.netlify.app/)</h4>
+<h4> 
+	<a href="https://dev-aliribeiro.netlify.app/" target="_blank">Meu portifólio</a>
+</h4>
 
 ## ETAPA 1: 
 
