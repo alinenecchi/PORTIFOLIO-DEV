@@ -2,8 +2,8 @@
 
 <h4 align="left"> 
 	🚧  Projeto 🚀 em andamento...  🚧
-  [Meu portifólio](https://dev-alineribeiro.netlify.app/)
 </h4>
+<h4>  [Meu portifólio](https://dev-alineribeiro.netlify.app/)</h4>
 
 ## ETAPA 1: 
 
