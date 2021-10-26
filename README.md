@@ -1,3 +1,27 @@
+# PORTIFOLIO-DEV 
+
+<h4 align="left"> 
+	🚧  Projeto 🚀 em andamento...  🚧
+  [Meu portifólio](https://dev-alineribeiro.netlify.app/)
+</h4>
+
+## ETAPA 1: 
+
+Criar um app-react localmente no seu terminal. 
+create-react-app PORTIFOLIO-DEV
+<p><code>git init</code></p>
+<p><code>git add .</code></p>
+<p><code>git commit -m "Enviando para github"</code></p>
+
+Criar um repositório no github, preferencialmente com o mesmo nome.
+
+Continua no terminal do projeto para linkar o projeto local com o remoto: 
+<p><code>git remote add origin https://github.com/aliribei/portifolio-dev.git</code></p>
+
+## ETAPA 2: 
+Objetivo é publicar e fazer deploy em nuvem. Para isso escolhi a plataforma Netlify.
+continua...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
